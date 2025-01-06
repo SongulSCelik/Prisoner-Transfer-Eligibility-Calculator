@@ -149,31 +149,6 @@ def eligibilityAndTransferTimeOpenPrison():
 eligibilityAndTransferTimeOpenPrison()
 
 
-# In[17]:
-
-
-eligibilityAndTransferTimeOpenPrison()
-
-
-# In[18]:
-
-
-eligibilityAndTransferTimeOpenPrison()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
